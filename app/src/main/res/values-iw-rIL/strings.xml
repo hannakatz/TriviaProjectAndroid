@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trivial</string>
+    <string name="text_score">"ניקוד : "</string>
+    <string name="text_title">אותיות</string>
+    <string name="select_category">בחר קטגוריה</string>
+    <string name="startgamebtn">התחל משחק</string>
+    <string name="button_all_categories">כל הקטגריות</string>
+    <string name="button_category">לפני קטגוריה</string>
+    <string name="ed_username">שם משתמש</string>
+    <string name="ed_password">סיסמא</string>
+    <string name="btn_login">הכנס</string>
+    <string name="btn_signup">רישום יוזר</string>
+    <string name="welcome">"שלום "</string>
+    <string name="highestscore">"הניקוד הגבוה ביותר : "</string>
+    <string name="playsound">נגן מוזיקה</string>
+    <string name="btn_reset_questions">חדש שאלות</string>
+    <string name="s">הכנס משתמש מקומי</string>
+    <string name="ed_verify_pwd">וודא סיסמא</string>
+    <string name="btn_create_user">רישום יוזר</string>
+    <string name="clear_btn">נקה</string>
+    <string name="clear_btn2">נקה</string>
+    <string name="btn_return">חזור</string>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2"
+    android:padding="30dp"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:background="@drawable/trivialogo"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:id="@+id/ed_username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/ed_username"
+        android:textStyle="bold"
+        android:textColor="@color/purple_200"
+        android:textColorHint="@color/transparent50"
+        android:layout_marginTop="60dp" />
+
+    <EditText
+        android:id="@+id/ed_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/ed_password"
+        android:textStyle="bold"
+        android:textColor="@color/purple_200"
+        android:inputType="textPassword"
+        android:textColorHint="@color/transparent50"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="30dp"
+        android:text="@string/btn_login"
+        android:textColor="@color/white"
+        android:textSize="24dp"
+        android:background="@drawable/but_shape_selector"/>
+
+
+    <Button
+        android:id="@+id/btn_signup"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/btn_signup"
+        android:textColor="@color/white"
+        android:textSize="24dp"
+        android:background="@drawable/but_shape_selector"/>
+
+
+
+
+</LinearLayout>
+
+
+

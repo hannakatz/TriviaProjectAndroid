@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Trivial</string>
+    <string name="text_score">Score :</string>
+    <string name="text_title">Letters</string>
+    <string name="select_category">Select Category</string>
+    <string name="startgamebtn">Start Game</string>
+    <string name="button_all_categories">All Categories</string>
+    <string name="button_category">By Category</string>
+    <string name="ed_username">Username</string>
+    <string name="ed_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_signup">set user</string>
+    <string name="welcome">"Welcome "</string>
+    <string name="highestscore">Highest Score:</string>
+    <string name="playsound">Play Sound</string>
+    <string name="btn_reset_questions">reset questions</string>
+    <string name="s">Set Local User</string>
+    <string name="ed_verify_pwd">Verify Password</string>
+    <string name="btn_create_user">set user</string>
+    <string name="clear_btn">clear</string>
+    <string name="clear_btn2">clear</string>
+    <string name="btn_return">Return</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>

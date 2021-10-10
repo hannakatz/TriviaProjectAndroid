@@ -1,1 +1,1 @@
-# TriviaProjectAndroid
+# AndroidTriviaProject
